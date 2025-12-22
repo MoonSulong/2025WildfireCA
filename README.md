@@ -1,4 +1,4 @@
-# Tales of the 2025 Los Angeles Fire: Hotwash for Public Health Concerns in Reddit via LLM-Enhanced Topic Modeling
+# Latent Health and Emotional Distress Topics in Reddit Discourse During the 2025 Southern California Wildfires
 
 ## Overview
 
@@ -6,13 +6,13 @@ This repository provides a proposed topic modeling methodology on an open-access
 
 The open-access dataset can be found in Huggingface at https://huggingface.co/datasets/Dragmoon/2025CalifoniaWildfire. This is designed to support research in environmental health, disaster informatics, social sensing, and exposure science. 
 
-The data were collected and curated as part of an academic study analyzing online discourse during extreme wildfire events, with particular attention to **situational awareness (SA)** and **crisis narratives (CN)** related to health, grief, and mental health risks.
+The data were collected and curated as part of an academic study analyzing online discourse during extreme wildfire events. 
 
 ---
 
 ## Dataset ([Dragmoon/2025CalifoniaWildfire](https://huggingface.co/datasets/Dragmoon/2025CalifoniaWildfire))
 
-The dataset repository includes the following components:
+The dataset repository, hosted on hugging face, includes the following components:
 
 ### 1. Reddit Posts (Raw and Clean)
 - **Number of posts**: [385]
@@ -28,6 +28,13 @@ The dataset repository includes the following components:
 - Additional binary flags indicate whether discourse contains:
   - Expressions of **grief**
   - Indicators of **potential mental health risk**
+---
+
+## Latent Topics
+![A map of clusters for each latent topic](figures/documents_topics.png)
+
+![A hierarchy view of latent topics](figures/topic.png)
+
 ---
 
 ## Temporal and Spatial Coverage
