@@ -77,9 +77,11 @@ Not for:
 If you use this dataset, please cite:
 
 ```bibtex
-@article{zhou2025tales,
-  title={Tales of the 2025 Los Angeles Fire: Hotwash for Public Health Concerns in Reddit via LLM-Enhanced Topic Modeling},
-  author={Zhou, Sulong and Huang, Qunying and Zhou, Shaoheng and Hang, Yun and Ye, Xinyue and Mei, Aodong and Phung, Kathryn and Ye, Yuning and Govindswamy, Uma and Li, Zehan},
-  journal={arXiv preprint arXiv:2505.09665},
-  year={2025}
+@article{zhou2026revealing,
+  title={Revealing time-sensitive latent public health and emotional distress topics in Reddit discourse during the 2025 Southern California wildfires},
+  author={Zhou, Sulong and Zhou, Shaoheng and Mei, Aodong and Phung, Kathryn and Ye, Yuning and Govindswamy, Uma and Li, Zehan and Huang, Qunying and Goodchild, Michael F and Hang, Yun and others},
+  journal={International Journal of Disaster Risk Reduction},
+  pages={106167},
+  year={2026},
+  publisher={Elsevier}
 }
